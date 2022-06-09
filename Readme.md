@@ -38,3 +38,7 @@ Hola :wave:, me llamo *Damián Lorente*, un simple estudiante de Ingeniería Civ
 ### Contact info // Informacion de contacto
 <!---3.2 E-mail // Correo electronico--->
 - E-Mail // Correo electronico :mailbox:: dami.lorente@gmail.com
+  
+  
+<!---4 License of use // Licencia de uso--->
+ [This project is licensed under the terms of the Mozilla Public License 2.0 `mpl-2.0` // Este proyecto esta bajo la Licencia Publica de Mozilla 2.0 `mpl-2.0`.](license)
