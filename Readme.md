@@ -15,7 +15,7 @@ Hola :wave:, me llamo *Damián Lorente*, un simple estudiante de Ingeniería Civ
 
 <!---3 Languages // Lenguajes--->
 <!---3.1 Title // Titulo--->
-### Languages // Lenguajes
+### Known languages // Lenguajes conocidos
 <!---3.2 MATLAB--->
 <a href="https://es.wikipedia.org/wiki/MATLAB"><img align="left" alt="MATLAB" width="75px" height="75px" src="images/MATLAB logo.png" /><a/>
 <!---3.3 C--->
@@ -38,7 +38,3 @@ Hola :wave:, me llamo *Damián Lorente*, un simple estudiante de Ingeniería Civ
 ### Contact info // Informacion de contacto
 <!---3.2 E-mail // Correo electronico--->
 - E-Mail // Correo electronico :mailbox:: dami.lorente@gmail.com
-  
-  
-<!---4 License of use // Licencia de uso--->
- [This project is licensed under the terms of the Mozilla Public License 2.0 `mpl-2.0` // Este proyecto esta bajo la Licencia Publica de Mozilla 2.0 `mpl-2.0`.](license)
