@@ -7,9 +7,9 @@
 <!---2.1 Title // Titulo--->
 ### Introduction // Introduccion
 <!---2.1 English // Ingles--->
-Hi :wave:, my name is *Damián Lorente*, just your average Civil Engineering student :construction_worker: fascinated by Computing :computer:, Programming :space_invader:, and their possibilities :rocket:. Here you will find all my programs and projects which I made just to make life easier. See you in the Net! :globe_with_meridians:
+Hi :wave:, my name is *Damián Lorente*, just your average Civil Engineering student :construction_worker: fascinated by Computing :computer:, Programming :space_invader:, and their possibilities :rocket:. Here you will find all my programs and projects which I made just to make life easier.
 <!---2.2 Spanish // Español--->
-Hola :wave:, me llamo *Damián Lorente*, un simple estudiante de Ingeniería Civil :construction_worker: con fascinacion por la Informática :computer:, la Programación :space_invader:, y sus posibilidades :rocket:. Aquí encontrarás todos los programas y proyectos que he creado para hacer la vida un poco más fácil. Nos vemos en la Red! :globe_with_meridians:
+Hola :wave:, me llamo *Damián Lorente*, un simple estudiante de Ingeniería Civil :construction_worker: con fascinacion por la Informática :computer:, la Programación :space_invader:, y sus posibilidades :rocket:. Aquí encontrarás todos los programas y proyectos que he creado para hacer la vida un poco más fácil.
 <br />
 
 
