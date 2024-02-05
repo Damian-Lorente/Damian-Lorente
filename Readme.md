@@ -7,9 +7,9 @@
 <!---2.1 Title // Titulo--->
 ### Introduction // Introducción
 <!---2.1 English // Ingles--->
-Hi, my name is *Damián Lorente*, a Civil Engineering student fascinated by Computing, Programming, and their capabilities to automate diverse tasks. Here you will find all my programs and projects which I made to make life a bit easier.
+Hi, I am *Damián Lorente*, a Civil Engineering student fascinated by Computing, Programming, and their capabilities to automate diverse tasks. Here you will find all my programs and projects which I made to make life a bit easier.
 <!---2.2 Spanish // Español--->
-Hola, me llamo *Damián Lorente*, un estudiante de Ingeniería Civil fascinado por la Informática, la Programación, y sus posibilidades para automatizar diversas acciones. Aquí encontrarás todos los programas y proyectos que he creado para hacer la vida un poco más fácil.
+Hola, soy *Damián Lorente*, un estudiante de Ingeniería Civil fascinado por la Informática, la Programación, y sus posibilidades para automatizar diversas acciones. Aquí encontrarás todos los programas y proyectos que he creado para hacer la vida un poco más fácil.
 <br/>
 
 
