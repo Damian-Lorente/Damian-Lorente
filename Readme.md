@@ -33,10 +33,3 @@ Hola, soy *Damián Lorente*, un estudiante de Ingeniería Civil fascinado por la
 <br/>
 <br/>
 <br/>
-
-
-<!---3 Contact info // Información de contacto--->
-<!---3.1 Title // Titulo--->
-### Contact info // Información de contacto
-<!---3.2 E-mail // Correo electronico--->
-- E-Mail // Correo electrónico :mailbox:: dami.lorente@gmail.com
