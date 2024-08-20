@@ -1,6 +1,6 @@
-<!--------------->
-<!----LICENSE---->
-<!--------------->
+<!------------->
+<!---LICENSE--->
+<!------------->
 <!--
     Copyright 2024 96985922+Damian-Lorente@users.noreply.github.com
   
@@ -19,85 +19,38 @@
 
 
 
-<!------------------->
-<!----DESCRIPTION---->
-<!------------------->
-<!--"Readme.md" file for the GitHub-->
-<!--repository "Xxx".-->
-<!---->
-<!---->
-<!--Last update: xx/xx/20xx-->
-
-
-
-<!------------------------->
-<!----MARKDOWN DOCUMENT---->
-<!------------------------->
-<!---1 Languages-->
-<!---1.1 Current language (English)--->
-<h1>:uk:</h1>
-<!---1.2 Other languages--->
-<a href="Readme%20es-ES.md">:es:</a>
-<!---<a href="../../..">:es:</a>--->
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-<!---2 Name of the project--->
-# *XXX*
+<!----------------------->
+<!---MARKDOWN DOCUMENT--->
+<!----------------------->
+<!---1 Greetings // Saludos--->
+# _> *Hello* :earth_africa:*...*
 ---
 
 
-<!---3 Content index--->
-## Content index
-[1.&ensp; Project Description](#project-description)<br>
-[2.&ensp; Requisites](#requisites)<br>
-[3.&ensp; Installation](#installation)<br>
-[4.&ensp; Usage](#usage)<br>
-[5.&ensp; License & Copyright ©](#license--copyright-)
-<br/>
-<br/>
+<!---2 Introduction // Introduccion--->
+<!---2.1 English // Ingles--->
+### Introduction // Introducción
+Hi, I am *Damián Lorente*, a Civil Engineering student fascinated by Computing, Programming, and their capabilities to automate diverse tasks. Here you will find all my programs and projects which I made to make life a bit easier.
+<!---2.2 Spanish // Español--->
+Hola, soy *Damián Lorente*, un estudiante de Ingeniería Civil fascinado por la Informática, la Programación, y sus posibilidades para automatizar diversas acciones. Aquí encontrarás todos los programas y proyectos que he creado para facilitar un poco la vida.
 <br/>
 
 
-<!---4 Project description--->
-## Project Description
-**Xxx** is a Xxx for Xxx.
-<br/>
-<br/>
-<br/>
-
-
-<!---5 Requisites for use-->
-## Requisites
-+  Xxx OS.
-+  Xxx.
-<br/>
-
-
-<!---6 Installation process--->
-<!---6.1 Microsoft Windows-->
-## Installation
-**Microsoft Windows**
-1. Download XXX from <https://www.X_X_X.com>.
-2. Xxx.
-<!---6.2 GNU/Linux--->
-**GNU/Linux**
-1. Download XXX from <https://www.X_X_X.com>.
-2. Xxx.
-<br/>
-
-
-<!---7 Usage instructions-->
-## Usage
-1. Open `Xxx`.
-2. Execute `Xxx`.
-3. Xxx.
-<br/>
-
-
-<!---8 License of use-->
-## License & Copyright ©
-This project is licensed under the terms of the [Mozilla Public License 2.0](License.md) `mpl-2.0`.
+<!---3 Known languages // Lenguajes conocidos--->
+<!---3.1 Batch Scripting--->
+### Known languages // Lenguajes conocidos
+<a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands">
+  <img align="left" alt="Batch Scripting" width="75px" height="75px" src="https://github.com/Damian-Lorente/Damian-Lorente/blob/Main/Images/Batch%20logo.png"/>
+</a>
+<!---3.2 C--->
+<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
+  <img align="left" alt="C" width="75px" height="75px" src="https://github.com/Damian-Lorente/Damian-Lorente/blob/Main/Images/C%20logo.png"/>
+</a>
+<!---3.3 MATLAB--->
+<a href="https://www.mathworks.com/help/matlab/">
+  <img align="left" alt="MATLAB" width="75px" height="75px" src="https://github.com/Damian-Lorente/Damian-Lorente/blob/Main/Images/MATLAB%20logo.png"/>
+</a>
+<!---3.4 VBA--->
+<a href="https://learn.microsoft.com/en-us/office/vba/api/overview/">
+  <img align="left" alt="VBA" width="75px" height="75px" src="https://github.com/Damian-Lorente/Damian-Lorente/blob/Main/Images/VBA%20logo.png"/>
+</a>
