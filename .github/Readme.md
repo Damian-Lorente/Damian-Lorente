@@ -40,17 +40,17 @@ Hola, soy *Damián Lorente*, un estudiante de Ingeniería Civil fascinado por la
 <!---3.1 Batch Scripting--->
 ### Known languages // Lenguajes conocidos
 <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands">
-  <img align="left" alt="Batch Scripting" width="75px" height="75px" src="https://github.com/Damian-Lorente/Damian-Lorente/blob/Main/Images/Batch%20logo.png"/>
+  <img align="left" alt="Batch Scripting" width="75px" height="75px" src="https://github.com/Damian-Lorente/Damian-Lorente/blob/main/Images/Batch%20logo.png"/>
 </a>
 <!---3.2 C--->
 <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
-  <img align="left" alt="C" width="75px" height="75px" src="https://github.com/Damian-Lorente/Damian-Lorente/blob/Main/Images/C%20logo.png"/>
+  <img align="left" alt="C" width="75px" height="75px" src="https://github.com/Damian-Lorente/Damian-Lorente/blob/main/Images/C%20logo.png"/>
 </a>
 <!---3.3 MATLAB--->
 <a href="https://www.mathworks.com/help/matlab/">
-  <img align="left" alt="MATLAB" width="75px" height="75px" src="https://github.com/Damian-Lorente/Damian-Lorente/blob/Main/Images/MATLAB%20logo.png"/>
+  <img align="left" alt="MATLAB" width="75px" height="75px" src="https://github.com/Damian-Lorente/Damian-Lorente/blob/main/Images/MATLAB%20logo.png"/>
 </a>
 <!---3.4 VBA--->
 <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/">
-  <img align="left" alt="VBA" width="75px" height="75px" src="https://github.com/Damian-Lorente/Damian-Lorente/blob/Main/Images/VBA%20logo.png"/>
+  <img align="left" alt="VBA" width="75px" height="75px" src="https://github.com/Damian-Lorente/Damian-Lorente/blob/main/Images/VBA%20logo.png"/>
 </a>
